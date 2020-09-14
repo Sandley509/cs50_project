@@ -1,0 +1,47 @@
+
+.form{
+    margin-top:25%;
+}
+.margin-top{
+    margin-top: 20px;
+}
+.text_input{
+    width: 500px;
+    height: 40px;
+    border: gray 1px solid;
+    border-radius: 20px;
+    
+}
+.text_input:focus{
+    border: 0px;
+    background-color: #f5F5F5;
+    outline-style: none;
+    box-shadow: none;
+    border-color: GRAY;
+ 
+   
+}
+.text_input:hover{
+    background-color: #fff;
+    box-shadow: 1px 1px 1px 1px #888888;
+}
+.button{
+    width: 120px;
+    color:gray;
+    height: 30px;
+    border: 0px;
+    border-radius: 5px;
+}
+.button:hover{
+    cursor: pointer;
+    color: rgb(31, 31, 31);
+  
+    background-color: #F5F5F5;
+    border :1px solid #888;
+}
+.logo{
+    position: absolute;
+    top: 160px;
+    left: 515px;
+}
+ 
